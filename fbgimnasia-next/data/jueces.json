@@ -1,0 +1,3946 @@
+[
+  {
+    "apellido": "Daloia",
+    "nombre": "Paola",
+    "club": "Elite Pilar",
+    "brevet": [
+      {
+        "categoria": "CII",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Lamanda",
+    "nombre": "Marina",
+    "club": "Club A. Quilmes",
+    "brevet": [
+      {
+        "categoria": "CII",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Churruca",
+    "nombre": "Maria Sol",
+    "club": "Club A. Quilmes",
+    "brevet": [
+      {
+        "categoria": "CIII",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "De Lucchi",
+    "nombre": "Cecilia",
+    "club": "Aldebaran",
+    "brevet": [
+      {
+        "categoria": "CIII",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Sposaro",
+    "nombre": "Monica Tamara",
+    "club": "Mar De Ajo",
+    "brevet": [
+      {
+        "categoria": "CIII",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Gallo",
+    "nombre": "Roxana",
+    "club": "Club A. Once Unidos",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Garcia",
+    "nombre": "Andrea",
+    "club": "Acrobacias Serranas",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Horquin",
+    "nombre": "Cintia",
+    "club": "Club A. Quilmes",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Hounrie",
+    "nombre": "Maria Alejandra",
+    "club": "CAI",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Inchausti",
+    "nombre": "Marcela Alejandra",
+    "club": "Club El Nacional",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Iriarte",
+    "nombre": "Sofia",
+    "club": "Club de Gimnasia y Esgrima",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Lagos",
+    "nombre": "Valeria Karina",
+    "club": "Club A. y B. Ferrocarril Sud",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Rolli",
+    "nombre": "Stefania",
+    "club": "UNLaM",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Suarez",
+    "nombre": "Nadia",
+    "club": "Mar De Ajo",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Aldunate",
+    "nombre": "Martha Cecilia",
+    "club": "Aldebaran",
+    "brevet": [
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Avila",
+    "nombre": "Dulce",
+    "club": "RC",
+    "brevet": [
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Cossani",
+    "nombre": "Ana Laura",
+    "club": "Cegalp",
+    "brevet": [
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Pietrantuono",
+    "nombre": "Romina",
+    "club": "Club A. Quilmes",
+    "brevet": [
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Tercic",
+    "nombre": "Maia",
+    "club": "QAC",
+    "brevet": [
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Vernieri",
+    "nombre": "Maria Alejandra",
+    "club": "UNLaM",
+    "brevet": [
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Viti",
+    "nombre": "Alba Milagros",
+    "club": "Club Estudiantes De Bahía",
+    "brevet": [
+      {
+        "categoria": "10",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Bolognese",
+    "nombre": "Camila",
+    "club": "Gimnasio Crecer",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Bongiorno",
+    "nombre": "Sofia Victoria",
+    "club": "Unlam",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Bourg",
+    "nombre": "Lucrecia",
+    "club": "Gympark",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Cancio",
+    "nombre": "Paula Romina",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Dagna",
+    "nombre": "Ailin Yael",
+    "club": "Club A. Lanús",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Desiati",
+    "nombre": "Selene",
+    "club": "Defensores De Banfield",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Di Julio",
+    "nombre": "Sofia",
+    "club": "Club A. Once Unidos",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Díaz",
+    "nombre": "Martín Carlos Javier",
+    "club": "Cef N° 42",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Espinosa",
+    "nombre": "Carolina",
+    "club": "Gimnasio Crecer",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fava",
+    "nombre": "Laura Gabriela",
+    "club": "Loma Negra",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Ferraggine",
+    "nombre": "Florencia Yamila",
+    "club": "Ser Gimnasia Artística",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fratantuono",
+    "nombre": "Agostina",
+    "club": "Olimpica Pilar",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Garcia",
+    "nombre": "Lucia Andrea",
+    "club": "Olimpica Pilar",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Garcia Aparicio",
+    "nombre": "Julieta",
+    "club": "Club Estudiantes De La Plata",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "García Frey",
+    "nombre": "Justina",
+    "club": "Aldebaran",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Jesus",
+    "nombre": "Rocio",
+    "club": "CAI",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Lesci",
+    "nombre": "Mariela",
+    "club": "Defensores De Banfield",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Miori",
+    "nombre": "Magdalena",
+    "club": "Club A. Once Unidos",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Rosi Clisanchez",
+    "nombre": "Vanesa Lucía",
+    "club": "Olimpica",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Vicent",
+    "nombre": "Laura",
+    "club": "Ayresgym",
+    "brevet": [
+      {
+        "categoria": "6a9",
+        "nivel": "Nacional"
+      },
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Aquino",
+    "nombre": "María Luz",
+    "club": "Monte Grande",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Arijon",
+    "nombre": "Brenda Mariela",
+    "club": "Eiga",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Barrio",
+    "nombre": "Camila",
+    "club": "Club Estudiantes De La Plata",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Basset",
+    "nombre": "Lara Camila",
+    "club": "Gimnasio Crecer",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Beltrame",
+    "nombre": "Catalina",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Blazquez",
+    "nombre": "Belen",
+    "club": "Educgym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Bravo",
+    "nombre": "Ema",
+    "club": "Club Astillero",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Buhr",
+    "nombre": "Sheila",
+    "club": "Gimnasio Andrea Andrada",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Cabrera",
+    "nombre": "Mailen",
+    "club": "San Isidro",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Calero",
+    "nombre": "Aymara Celeste",
+    "club": "CAI",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Canteros Coto",
+    "nombre": "Noelia",
+    "club": "CAI",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Carmona",
+    "nombre": "Lorena Edith",
+    "club": "Eiga",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Carrizo",
+    "nombre": "Jennifer",
+    "club": "Einstein",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Cobo",
+    "nombre": "Valeria Fabiana",
+    "club": "Gap Pinamar",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Codispoti",
+    "nombre": "María De Los Angeles",
+    "club": "San Isidro",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Colonese",
+    "nombre": "Camila",
+    "club": "Asociacion Juventud",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Coltellini",
+    "nombre": "Agustina Alejandra",
+    "club": "Educgym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Dangiolo",
+    "nombre": "Melina Elisa",
+    "club": "Club A. Los Andes",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "De La Canal Paz",
+    "nombre": "Nora Alicia",
+    "club": "Club Banco Provincia",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Decili",
+    "nombre": "Salma Magalli",
+    "club": "San Isidro",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Del Valle",
+    "nombre": "Sofia",
+    "club": "Defensores De Banfield",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Dominguez",
+    "nombre": "Melisa",
+    "club": "Punto De Equilibrio",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Dos Santos",
+    "nombre": "Maria Cecilia",
+    "club": "Educgym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Echegaray",
+    "nombre": "Brenda Stefanía",
+    "club": "Club A. Once Unidos",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Esposito",
+    "nombre": "Natalia",
+    "club": "Sedalo",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Espínola Portero",
+    "nombre": "Martina Sol",
+    "club": "Defensores De Banfield",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fabiano",
+    "nombre": "Gabriela",
+    "club": "Gimnasio GA.F",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fernandez",
+    "nombre": "Maria Emilia",
+    "club": "Link Up",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fernandez Clar",
+    "nombre": "Carolina",
+    "club": "Defensores De Banfield",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Figueroa",
+    "nombre": "Maria Virginia",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fiocchi",
+    "nombre": "Maia Constanza",
+    "club": "Einstein",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Galarza Guerrero",
+    "nombre": "Agustina Belen Evelin",
+    "club": "CAI",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Gibelli",
+    "nombre": "Estefania",
+    "club": "Gimnasio Crecer",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Giraldez",
+    "nombre": "Jazmin",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Gomez",
+    "nombre": "Camila",
+    "club": "Social Temperley",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Goncalves",
+    "nombre": "Gisele",
+    "club": "Club Moron",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Gonzalez",
+    "nombre": "Agustina",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Gonzalez",
+    "nombre": "Rocio Brenda",
+    "club": "Sedalo",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "González Villegas",
+    "nombre": "Luana",
+    "club": "Cegalp",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Hernando",
+    "nombre": "Maria Paz",
+    "club": "3 De Febrero",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Ledesma Campos",
+    "nombre": "Maite",
+    "club": "Asociacion Juventud",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Loiacono",
+    "nombre": "Camila Andrea",
+    "club": "Club Moron",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Mambretti",
+    "nombre": "Valentina",
+    "club": "Villa Mitre",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Marturet Catalano",
+    "nombre": "Irina Maylén",
+    "club": "C. F. Los Hornos",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Martínez Ahumada",
+    "nombre": "Quimey Nontue",
+    "club": "CAI",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Mazzola",
+    "nombre": "Mara",
+    "club": "Social Temperley",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Medero Larrosa",
+    "nombre": "Micaela",
+    "club": "Defensores De Banfield",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Molina",
+    "nombre": "Fiamma",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Mora",
+    "nombre": "Luna",
+    "club": "Educgym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Mora",
+    "nombre": "María Rocío",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Oleandro",
+    "nombre": "Julian",
+    "club": "UNLaM",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Palina",
+    "nombre": "Melanie Belen",
+    "club": "Sedalo",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Pardini",
+    "nombre": "Patricia Soledad",
+    "club": "Gimnastic",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Pasquale",
+    "nombre": "Bianca",
+    "club": "3 De Febrero",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Pasquini",
+    "nombre": "Camila Florencia",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Perez",
+    "nombre": "Melany Andrea",
+    "club": "Monte Grande",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Pernet",
+    "nombre": "Maria Florencia",
+    "club": "CAI",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Petriello",
+    "nombre": "Oriana Magali",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Piazza",
+    "nombre": "Tatiana",
+    "club": "San Isidro",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Pisani",
+    "nombre": "Agostina María Soledad",
+    "club": "Club A. Los Andes",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Puente",
+    "nombre": "Sofia",
+    "club": "CAI",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Queirolo León",
+    "nombre": "Melina",
+    "club": "3 De Febrero",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Recupero",
+    "nombre": "Clara",
+    "club": "Club Moron",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Ribero",
+    "nombre": "Candela",
+    "club": "Social Temperley",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Rodriguez Lopez",
+    "nombre": "Mariana",
+    "club": "MRgym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Rodríguez Gonzalez",
+    "nombre": "María Florencia",
+    "club": "Defensores De Banfield",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Rojas Carlisky",
+    "nombre": "Georgina Anabella",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Ruiz",
+    "nombre": "Maribel",
+    "club": "Gimnastic",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Rusconi",
+    "nombre": "Elisa",
+    "club": "Fasta Mdp",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Russo",
+    "nombre": "Micaela Ailin",
+    "club": "Club Moron",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Sabone",
+    "nombre": "Maria De Los Angeles",
+    "club": "Educgym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Samoiloff",
+    "nombre": "Sol Iara",
+    "club": "Club A. Lanús",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Sattler",
+    "nombre": "Mariana Soledad",
+    "club": "CEF N° 11",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Savone",
+    "nombre": "Constanza",
+    "club": "Aldebaran",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Shinzato",
+    "nombre": "Martina",
+    "club": "Defensores De Banfield",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Taverna",
+    "nombre": "Daniela",
+    "club": "3 De Febrero",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Uranga",
+    "nombre": "Malena",
+    "club": "Gimnasio Ga.f",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Valdez",
+    "nombre": "Celeste De Los Angeles",
+    "club": "UNLaM",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Vieyra",
+    "nombre": "Keyla",
+    "club": "QAC",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Villanueva",
+    "nombre": "Maria Florencia",
+    "club": "C.c.yd. Capital Chica",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Zaminovich",
+    "nombre": "Natalia",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Zanotti",
+    "nombre": "Guadalupe",
+    "club": "Gimnasio Crecer",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Alaiz",
+    "nombre": "Estefania",
+    "club": "Club A. Peñarol",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Araujo Baiz",
+    "nombre": "Maria Belen",
+    "club": "La Falda",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Arevalo",
+    "nombre": "Daniela",
+    "club": "Uno Bahia Club",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Armendariz",
+    "nombre": "Mariela Gloria",
+    "club": "Cef Nº 20",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Avaroa",
+    "nombre": "Luz",
+    "club": "Club A. Lanús",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Azaian",
+    "nombre": "Martina",
+    "club": "Educgym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Aznarez",
+    "nombre": "Mackenna Josefina",
+    "club": "QAC",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Balmaceda",
+    "nombre": "Sofia",
+    "club": "Gymnasiem",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Balvidares",
+    "nombre": "Florencia Daiana",
+    "club": "Bragado Club",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Bilo",
+    "nombre": "Mayra",
+    "club": "San Isidro",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Buhr",
+    "nombre": "Viviana",
+    "club": "Gimnasio Andrea Andrada",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Casariego",
+    "nombre": "Iara Mailen",
+    "club": "Uno Bahia Club",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Cattoretti",
+    "nombre": "Clarisa",
+    "club": "Bragado Club",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Chiesa",
+    "nombre": "Bianca",
+    "club": "Social Temperley",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Ciancaglini",
+    "nombre": "Gabriela",
+    "club": "Mar De Ajo",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Cortes",
+    "nombre": "Selene",
+    "club": "Mar De Ajo",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Dato Ramirez",
+    "nombre": "Bianca Marisol",
+    "club": "Gimnastic",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "De Feo",
+    "nombre": "Manuela",
+    "club": "Cegalp",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "De Maio",
+    "nombre": "Chiara",
+    "club": "Club Moron",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fernandez",
+    "nombre": "Maria Paz",
+    "club": "New Century",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fernandez Haumuller",
+    "nombre": "Milagros",
+    "club": "A. C. Brandsen",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fernández Vivas",
+    "nombre": "Paula",
+    "club": "Gymnasiem",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Ferreyra",
+    "nombre": "Catalina Juliana",
+    "club": "C. F. Los Hornos",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fiorda",
+    "nombre": "Florencia",
+    "club": "Uno Bahia Club",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Fleitas",
+    "nombre": "Pablo",
+    "club": "Club A. Once Unidos",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Francisco",
+    "nombre": "Josefina",
+    "club": "Laberinto Gym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Galiñaños Torres",
+    "nombre": "Rosario",
+    "club": "E.d.n Club Nordelta",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Gamero",
+    "nombre": "Julieta",
+    "club": "C. F. Los Hornos",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Garcia Pereyra",
+    "nombre": "Maria Jose",
+    "club": "Educgym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Gomez Luna",
+    "nombre": "Pamela",
+    "club": "Avellaneda",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Gonzalez",
+    "nombre": "Iara",
+    "club": "Ferrocarril Sud",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Gonzalez Tempesta",
+    "nombre": "Nayara",
+    "club": "Fasta",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Iturralde",
+    "nombre": "Zoe Martina",
+    "club": "Club Moron",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Kilanowski",
+    "nombre": "Ana",
+    "club": "Kalima",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Kippes",
+    "nombre": "Macarena",
+    "club": "Piruetas Lujan",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Laquidain",
+    "nombre": "Mara",
+    "club": "Club A. Peñarol",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Leiva",
+    "nombre": "Candela Victoria",
+    "club": "San Isidro",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Lignac",
+    "nombre": "Malena",
+    "club": "Club A. Los Andes",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Liniers",
+    "nombre": "Milagros Milena",
+    "club": "Club A. Quilmes",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Loiotile",
+    "nombre": "Camila Belen",
+    "club": "RC",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "López",
+    "nombre": "Julieta Agustina",
+    "club": "Leon Gym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Luques",
+    "nombre": "Lorena Betiana",
+    "club": "Villa Mitre",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Maccaroni",
+    "nombre": "Ariana",
+    "club": "Cef N° 11",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Macchi",
+    "nombre": "Leonardo",
+    "club": "Light's Gym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Martinez",
+    "nombre": "Valentina",
+    "club": "QAC",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Martinez",
+    "nombre": "Yanella",
+    "club": "Leon Gym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Mattes",
+    "nombre": "Daiana Soledad",
+    "club": "Gimnastic",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Metz",
+    "nombre": "Mandy",
+    "club": "Social Temperley",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Miguez",
+    "nombre": "Amelie",
+    "club": "Acrobacias Serranas",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Monge",
+    "nombre": "Renata",
+    "club": "Club A. Peñarol",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Mopardo",
+    "nombre": "Martina",
+    "club": "Bragado Club",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Moran",
+    "nombre": "Florencia Yanet",
+    "club": "Cañuelas Cfc",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Morelli",
+    "nombre": "Julieta",
+    "club": "Club A. Los Andes",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Musacchio Espinosa",
+    "nombre": "Melina Antonella",
+    "club": "Club A. Lanús",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Obelar",
+    "nombre": "Brisa Micaela",
+    "club": "R8A Bragado",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Osaki",
+    "nombre": "Amanda Marisol",
+    "club": "Leon Gym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Pardi Magallanes",
+    "nombre": "Malena Yasmin",
+    "club": "Mar De Ajo",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Perez Barth",
+    "nombre": "Daiana",
+    "club": "Acrobacias Serranas",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Piedrabuena",
+    "nombre": "Ana Julia",
+    "club": "Club Olimpo",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Piermattei",
+    "nombre": "Glenda",
+    "club": "Club San Martín",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Piunno",
+    "nombre": "Ornela",
+    "club": "Leon Gym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Potenza",
+    "nombre": "Lola",
+    "club": "Club A. Once Unidos",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Raino",
+    "nombre": "Alma Muriel",
+    "club": "Juventud De Tapiales",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Riglos",
+    "nombre": "Maria Antonela",
+    "club": "Club El Nacional",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Rodriguez",
+    "nombre": "Maria Marta",
+    "club": "Club A. y B. Ferrocarril Sud",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Samoiloff",
+    "nombre": "Valentina",
+    "club": "Club A. Lanús",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Seco Cosentino",
+    "nombre": "Sofia",
+    "club": "Eiga",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Sequeiros",
+    "nombre": "Verónica",
+    "club": "Club Estudiantes De Bahía",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Sisco Casal",
+    "nombre": "Milagros",
+    "club": "Argym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Vallejos",
+    "nombre": "Florencia Agustina",
+    "club": "Club A. y B. Ferrocarril Sud",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Vega",
+    "nombre": "Analia",
+    "club": "Laberinto Gym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Vega",
+    "nombre": "Lucía",
+    "club": "Gimnasio Acro's",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Veronese",
+    "nombre": "Denise",
+    "club": "Laberinto Gym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Villoldo",
+    "nombre": "Clara",
+    "club": "MRgym",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Weiss",
+    "nombre": "Paula",
+    "club": "Cegalp",
+    "brevet": [
+      {
+        "categoria": "1a5",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-femenina",
+    "disc_nombre": "Artística Femenina",
+    "disc_abrev": "GAF"
+  },
+  {
+    "apellido": "Molinari",
+    "nombre": "Federico",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "CII",
+        "nivel": "Internacional"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Fernandez",
+    "nombre": "David",
+    "club": "Social Temperley",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "D",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Neistadt",
+    "nombre": "Lucas",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "CIV",
+        "nivel": "Internacional"
+      },
+      {
+        "categoria": "D",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Díaz",
+    "nombre": "Martín Carlos Javier",
+    "club": "CEF N° 42",
+    "brevet": [
+      {
+        "categoria": "D",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Iantorno",
+    "nombre": "Lucas",
+    "club": "Club A. Lanús",
+    "brevet": [
+      {
+        "categoria": "D",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Iorizzio",
+    "nombre": "Esteban",
+    "club": "Social Temperley",
+    "brevet": [
+      {
+        "categoria": "D",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Recchiuti",
+    "nombre": "Dante",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "D",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Verdura",
+    "nombre": "Lucas Gabriel",
+    "club": "Club A. Lanús",
+    "brevet": [
+      {
+        "categoria": "D",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Agriello",
+    "nombre": "Federico",
+    "club": "Gap Pinamar",
+    "brevet": [
+      {
+        "categoria": "E",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Andrade",
+    "nombre": "Laxmi Yael",
+    "club": "Defensores De Banfield",
+    "brevet": [
+      {
+        "categoria": "E",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Bianchi",
+    "nombre": "Luca",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "E",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Britos",
+    "nombre": "Joaquín",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "E",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Frljanic",
+    "nombre": "Mirko Tomas",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "E",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Gonzalez",
+    "nombre": "Christopher Maximiliano",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "E",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Lonati",
+    "nombre": "Tomas",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "E",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Simonetta",
+    "nombre": "Fausto Latella",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "E",
+        "nivel": "Provincial"
+      }
+    ],
+    "disc_slug": "artistica-masculina",
+    "disc_nombre": "Artística Masculina",
+    "disc_abrev": "GAM"
+  },
+  {
+    "apellido": "Medina",
+    "nombre": "Flavia",
+    "club": "Municipalidad La Matanza",
+    "brevet": [
+      {
+        "categoria": "CIII",
+        "nivel": "Individual"
+      },
+      {
+        "categoria": "CIII",
+        "nivel": "Conjunto"
+      }
+    ],
+    "disc_slug": "ritmica",
+    "disc_nombre": "Rítmica",
+    "disc_abrev": "GR"
+  },
+  {
+    "apellido": "Ruquet",
+    "nombre": "Denise",
+    "club": "Municipalidad La Matanza",
+    "brevet": [
+      {
+        "categoria": "CIII",
+        "nivel": "Individual"
+      },
+      {
+        "categoria": "CIII",
+        "nivel": "Conjunto"
+      }
+    ],
+    "disc_slug": "ritmica",
+    "disc_nombre": "Rítmica",
+    "disc_abrev": "GR"
+  },
+  {
+    "apellido": "Martin",
+    "nombre": "Iara Magali",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "B",
+        "nivel": "Individual"
+      },
+      {
+        "categoria": "C",
+        "nivel": "Conjunto"
+      }
+    ],
+    "disc_slug": "ritmica",
+    "disc_nombre": "Rítmica",
+    "disc_abrev": "GR"
+  },
+  {
+    "apellido": "Rozenszajn",
+    "nombre": "Romina Judith",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "B",
+        "nivel": "Individual"
+      },
+      {
+        "categoria": "C",
+        "nivel": "Conjunto"
+      }
+    ],
+    "disc_slug": "ritmica",
+    "disc_nombre": "Rítmica",
+    "disc_abrev": "GR"
+  },
+  {
+    "apellido": "Giufrida",
+    "nombre": "Maria Vanina",
+    "club": "En Armonía",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Individual"
+      }
+    ],
+    "disc_slug": "ritmica",
+    "disc_nombre": "Rítmica",
+    "disc_abrev": "GR"
+  },
+  {
+    "apellido": "Lazarte",
+    "nombre": "Sol",
+    "club": "FM Gymnastics",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Individual"
+      }
+    ],
+    "disc_slug": "ritmica",
+    "disc_nombre": "Rítmica",
+    "disc_abrev": "GR"
+  },
+  {
+    "apellido": "Mammana",
+    "nombre": "Milagros",
+    "club": "Municipalidad La Matanza",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Individual"
+      }
+    ],
+    "disc_slug": "ritmica",
+    "disc_nombre": "Rítmica",
+    "disc_abrev": "GR"
+  },
+  {
+    "apellido": "Monte",
+    "nombre": "Malen Rocio",
+    "club": "Municipalidad La Matanza",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Individual"
+      },
+      {
+        "categoria": "C",
+        "nivel": "Conjunto"
+      }
+    ],
+    "disc_slug": "ritmica",
+    "disc_nombre": "Rítmica",
+    "disc_abrev": "GR"
+  },
+  {
+    "apellido": "Montero",
+    "nombre": "Lorena Elizabeth",
+    "club": "En Armonía",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Individual"
+      }
+    ],
+    "disc_slug": "ritmica",
+    "disc_nombre": "Rítmica",
+    "disc_abrev": "GR"
+  },
+  {
+    "apellido": "Coralli",
+    "nombre": "Lourdes",
+    "club": "Cegalp",
+    "brevet": [
+      {
+        "categoria": "A",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "aerobica-deportiva",
+    "disc_nombre": "Aeróbica Deportiva",
+    "disc_abrev": "AER"
+  },
+  {
+    "apellido": "Aguilera",
+    "nombre": "Luz Maria",
+    "club": "Light's Gym",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "aerobica-deportiva",
+    "disc_nombre": "Aeróbica Deportiva",
+    "disc_abrev": "AER"
+  },
+  {
+    "apellido": "Astudillo",
+    "nombre": "Priscila",
+    "club": "C. E. Laura Zabala",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "aerobica-deportiva",
+    "disc_nombre": "Aeróbica Deportiva",
+    "disc_abrev": "AER"
+  },
+  {
+    "apellido": "Espínola Mallorquín",
+    "nombre": "Lucía Jazmín",
+    "club": "Villa Lujan",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "aerobica-deportiva",
+    "disc_nombre": "Aeróbica Deportiva",
+    "disc_abrev": "AER"
+  },
+  {
+    "apellido": "Pereyra",
+    "nombre": "Ailen Sofia",
+    "club": "Cegalp",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "aerobica-deportiva",
+    "disc_nombre": "Aeróbica Deportiva",
+    "disc_abrev": "AER"
+  },
+  {
+    "apellido": "Zabala",
+    "nombre": "Laura Silvina",
+    "club": "C. E. Laura Zabala",
+    "brevet": [
+      {
+        "categoria": "C",
+        "nivel": "Nacional"
+      }
+    ],
+    "disc_slug": "aerobica-deportiva",
+    "disc_nombre": "Aeróbica Deportiva",
+    "disc_abrev": "AER"
+  },
+  {
+    "apellido": "García Martín",
+    "nombre": "María Soledad",
+    "club": "Gimnastic",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "CIV"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "CIV"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "CIII"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Lofiego",
+    "nombre": "Emanuel",
+    "club": "Nolting",
+    "brevet": [
+      {
+        "categoria": "TUM",
+        "nivel": "CIII"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Galli",
+    "nombre": "Marianela Iris Del Rocio",
+    "club": "Cardan Vh",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "A"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "A"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "A"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Gonzalez",
+    "nombre": "Julieta",
+    "club": "Cef 31",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "B"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "A"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "A"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Mariani",
+    "nombre": "Valeria Mabel",
+    "club": "Cardan Vh",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "A"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "A"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "A"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Weise Gontier",
+    "nombre": "Tobias Maximiliano",
+    "club": "C. Y B. Mariano Moreno",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "A"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "A"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "A"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Holdo",
+    "nombre": "Afika",
+    "club": "Gimnastic",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "B"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "B"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "B"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Agustina",
+    "nombre": "Morales",
+    "club": "Ideal",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "C"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "B"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Carreras",
+    "nombre": "Lucía Abril",
+    "club": "Paso Del Rey",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "C"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "C"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Castro Vera",
+    "nombre": "Mariana",
+    "club": "C. Y B. Mariano Moreno",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "C"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "C"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Cerda",
+    "nombre": "Laura",
+    "club": "Actitud Acro",
+    "brevet": [
+      {
+        "categoria": "DMT",
+        "nivel": "C"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Diana",
+    "nombre": "Maria Fernanda",
+    "club": "Moreno De Castelar",
+    "brevet": [
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Domini",
+    "nombre": "Carmen",
+    "club": "Moreno De Castelar",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "C"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "B"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Elosegui",
+    "nombre": "Juan",
+    "club": "Cef 31",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "C"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "C"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Gallo",
+    "nombre": "Verónica",
+    "club": "C. Y B. Mariano Moreno",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "C"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "C"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Galvan Gonzalez",
+    "nombre": "Evelyn",
+    "club": "Actitud Acro",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "D"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "C"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Morales",
+    "nombre": "Juan Daniel",
+    "club": "Moreno De Castelar",
+    "brevet": [
+      {
+        "categoria": "DMT",
+        "nivel": "C"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "A"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Pagoto Joandet",
+    "nombre": "Sofia",
+    "club": "Gimnastic",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "C"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "C"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Torres",
+    "nombre": "Mercedes Maria De Los Angeles",
+    "club": "Cef 96",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "C"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "B"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "A"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "Vinocur",
+    "nombre": "Victoria Vinocur",
+    "club": "Ifa Acroeste",
+    "brevet": [
+      {
+        "categoria": "TRA",
+        "nivel": "C"
+      },
+      {
+        "categoria": "DMT",
+        "nivel": "C"
+      },
+      {
+        "categoria": "TUM",
+        "nivel": "C"
+      }
+    ],
+    "disc_slug": "trampolin",
+    "disc_nombre": "Trampolín",
+    "disc_abrev": "TRA"
+  },
+  {
+    "apellido": "— próximamente —",
+    "nombre": "",
+    "club": "",
+    "brevet": [
+      {
+        "categoria": "",
+        "nivel": ""
+      }
+    ],
+    "disc_slug": "acrobatica",
+    "disc_nombre": "Acrobática",
+    "disc_abrev": "GA"
+  }
+]

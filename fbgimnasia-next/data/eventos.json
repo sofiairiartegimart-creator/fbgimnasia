@@ -1,0 +1,793 @@
+[
+  {
+    "titulo": "1er Campus Mayor",
+    "fecha": "2026-02-09",
+    "mes": "Febrero",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentración Preselección Jr FIG",
+    "fecha": "2026-02-01",
+    "mes": "Febrero",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentración Preselección Mayor",
+    "fecha": "2026-02-16",
+    "mes": "Febrero",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "1er Ingreso a Elite",
+    "fecha": "2026-03-09",
+    "mes": "Marzo",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Campus Panamericano Mayores",
+    "fecha": "2026-03-23",
+    "mes": "Marzo",
+    "sede": "Panamá",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Copa Jesolo",
+    "fecha": "2026-03-27",
+    "mes": "Marzo",
+    "sede": "Italia",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Entrenamiento en el Exterior",
+    "fecha": "2026-04-30",
+    "mes": "Abril",
+    "sede": "—",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Capacitación jueces con brevet y Curso Provincial de Jueces",
+    "fecha": "2026-04-01",
+    "mes": "Abril",
+    "sede": "Howard Johnson, Pilar",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentracion Seleccion ODESUR  Jr FIG",
+    "fecha": "2026-04-06",
+    "mes": "Abril",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Copa del Mundo",
+    "fecha": "2026-04-09",
+    "mes": "Abril",
+    "sede": "Croacia",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Juegos ODESUR Jr FIG",
+    "fecha": "2026-04-14",
+    "mes": "Abril",
+    "sede": "Panamá",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentración Preselección Panamericano Adultos",
+    "fecha": "2026-04-20",
+    "mes": "Abril",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentración Preselección Panamericano Juvenil",
+    "fecha": "2026-04-27",
+    "mes": "Abril",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "1er Campus Prejuvenil, Proyectar y Detectar",
+    "fecha": "2026-05-01",
+    "mes": "Mayo",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Torneo Provincial de Clubes. Niveles 3 al 5",
+    "fecha": "2026-05-30",
+    "mes": "Mayo",
+    "sede": "Cegalp",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "1er Regional Niveles 1 y 2. Zonas 1 y 4",
+    "fecha": "2026-05-09",
+    "mes": "Mayo",
+    "sede": "New Century y Club Olimpo",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "1er Regional Niveles 1 y 2. Zonas 2 y 5",
+    "fecha": "2026-05-16",
+    "mes": "Mayo",
+    "sede": "Elite Pilar y CEF N°11",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Torneo Provincial de Clubes. Niveles 6 al 10",
+    "fecha": "2026-05-21",
+    "mes": "Mayo",
+    "sede": "Club Quilmes, Mar del Plata",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Entrenamiento en el Exterior",
+    "fecha": "2026-05-18",
+    "mes": "Mayo",
+    "sede": "a definir",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Copa del Mundo Koper",
+    "fecha": "2026-05-28",
+    "mes": "Mayo",
+    "sede": "Eslovenia",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Regional de Clubes Niveles 1 al 5",
+    "fecha": "2026-05-28",
+    "mes": "Mayo",
+    "sede": "Rosario",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentración Selección Mayor y Jr FIG",
+    "fecha": "2026-06-08",
+    "mes": "Junio",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Campeonato Panamericano Mayor y Jr FIG",
+    "fecha": "2026-06-14",
+    "mes": "Junio",
+    "sede": "Rio de Janeiro, Brasil",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "1er Regional Niveles 1 y 2. Zonas 3 y 6",
+    "fecha": "2026-06-13",
+    "mes": "Junio",
+    "sede": "Cegalp y Ferro Tandil",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Torneo Nacional de clubes niveles 6 y 7",
+    "fecha": "2026-06-24",
+    "mes": "Junio",
+    "sede": "Rosario",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "2do Ingreso a Elite y Programas de Desarrollo",
+    "fecha": "2026-07-02",
+    "mes": "Julio",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Nacional de Clubes Niveles 8, 9 y 10",
+    "fecha": "2026-07-08",
+    "mes": "Julio",
+    "sede": "Rosario",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Control Selección ODESUR y Mundial Adultos",
+    "fecha": "2026-07-01",
+    "mes": "Julio",
+    "sede": "—",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "1er Selectivo Sudamericano Grupo de Edades",
+    "fecha": "2026-07-01",
+    "mes": "Julio",
+    "sede": "—",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Provincial Nivel E",
+    "fecha": "2026-07-16",
+    "mes": "Julio",
+    "sede": "Banco Provincia",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentración Preselección Mayor — Odesur y Mundial",
+    "fecha": "2026-07-13",
+    "mes": "Julio",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "1er Campus Pre juvenil/juvenil",
+    "fecha": "2026-07-31",
+    "mes": "Julio",
+    "sede": "—",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "2do regional. Zonas 1 y 4",
+    "fecha": "2026-08-01",
+    "mes": "Agosto",
+    "sede": "Temperley y Villa Mitre",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "2do Campus Programas",
+    "fecha": "2026-08-07",
+    "mes": "Agosto",
+    "sede": "—",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "2do regional. Zonas 2 y 5",
+    "fecha": "2026-08-08",
+    "mes": "Agosto",
+    "sede": "Morón y CEF N°11",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "2do Provincial. Niveles 6 al 10",
+    "fecha": "2026-08-13",
+    "mes": "Agosto",
+    "sede": "Aguas Verdes",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Campeonato Panamericano Jr FIG",
+    "fecha": "2026-08-17",
+    "mes": "Agosto",
+    "sede": "Puerto Rico",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "2do Regional. Zonas 3 y 6",
+    "fecha": "2026-08-22",
+    "mes": "Agosto",
+    "sede": "Banco Provincia y Ferro",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "2do Provincial. Niveles 3 al 5",
+    "fecha": "2026-08-27",
+    "mes": "Agosto",
+    "sede": "Defensores de Banfield",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Nacional Federativo Nivel 10",
+    "fecha": "2026-09-02",
+    "mes": "Septiembre",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "2do Selectivo Sudamericano Grupo de Edades",
+    "fecha": "2026-09-01",
+    "mes": "Septiembre",
+    "sede": "—",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentración Selección Odesur Adultos",
+    "fecha": "2026-09-07",
+    "mes": "Septiembre",
+    "sede": "—",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Final Provincial Niveles 6 al 9",
+    "fecha": "2026-09-10",
+    "mes": "Septiembre",
+    "sede": "Aguas Verdes",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Juegos ODESUR Mayor",
+    "fecha": "2026-09-14",
+    "mes": "Septiembre",
+    "sede": "Rosario",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Final Provincial Niveles 3 al 5",
+    "fecha": "2026-09-24",
+    "mes": "Septiembre",
+    "sede": "Aguas Verdes",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentración Selección Mundial Adultos",
+    "fecha": "2026-10-05",
+    "mes": "Octubre",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "3er campus Programas",
+    "fecha": "2026-10-02",
+    "mes": "Octubre",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Final provincial niveles 1 y 2",
+    "fecha": "2026-10-01",
+    "mes": "Octubre",
+    "sede": "Aguas Verdes",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Nacional Federativo Niveles 7, 8 y 9",
+    "fecha": "2026-10-14",
+    "mes": "Octubre",
+    "sede": "Aguas Verdes",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Campeonato Mundial",
+    "fecha": "2026-10-17",
+    "mes": "Octubre",
+    "sede": "Rotterdam, Países Bajos",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Nacional Federativo Nivel 6",
+    "fecha": "2026-10-28",
+    "mes": "Octubre",
+    "sede": "Aguas Verdes",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Juegos Olímpicos Jr FIG",
+    "fecha": "2026-11-02",
+    "mes": "Noviembre",
+    "sede": "Dakar, Senegal",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Concentración Selección Sudamericana Mayor y Prejuvenil",
+    "fecha": "2026-11-09",
+    "mes": "Noviembre",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Nacional Federativo Nivel 3",
+    "fecha": "2026-11-11",
+    "mes": "Noviembre",
+    "sede": "Rafaela, Santa Fe",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Campeonato Sudamericano Mayor y Pre Juvenil",
+    "fecha": "2026-11-18",
+    "mes": "Noviembre",
+    "sede": "Lima, Perú",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Copa Sudamericana de Adultos",
+    "fecha": "2026-11-01",
+    "mes": "Noviembre",
+    "sede": "—",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Campeonato Sudamericano Jr FIG, Infantil y Preinfantil",
+    "fecha": "2026-11-24",
+    "mes": "Noviembre",
+    "sede": "Santa Cruz de la Sierra, Bolivia",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Nacional Federativo Niveles 4 y 5",
+    "fecha": "2026-11-25",
+    "mes": "Noviembre",
+    "sede": "La Pampa",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Campus Mayor y Jr FIG (a confirmar)",
+    "fecha": "2026-12-30",
+    "mes": "Diciembre",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Regional Federativo Zona Centro Niveles 1 y 2",
+    "fecha": "2026-12-03",
+    "mes": "Diciembre",
+    "sede": "Aguas Verdes",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "4to Campus Programas",
+    "fecha": "2026-12-30",
+    "mes": "Diciembre",
+    "sede": "CeNARD",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Final Nacional Nivel E",
+    "fecha": "2026-12-11",
+    "mes": "Diciembre",
+    "sede": "Aguas Verdes",
+    "disciplina": "Artística Femenina"
+  },
+  {
+    "titulo": "Copa del Mundo",
+    "fecha": "2026-04-06",
+    "mes": "Abril",
+    "sede": "Croacia",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Juegos Sudamericanos de la Juventud",
+    "fecha": "2026-04-13",
+    "mes": "Abril",
+    "sede": "Panamá",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "1er Provincial GAM",
+    "fecha": "2026-05-30",
+    "mes": "Mayo",
+    "sede": "Don Torcuato",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Campeonato Panamericano Juniors y Mayores",
+    "fecha": "2026-06-13",
+    "mes": "Junio",
+    "sede": "Rio de Janeiro",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Campeonato Nacional de Clubes",
+    "fecha": "2026-07-30",
+    "mes": "Julio",
+    "sede": "Rosario",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "2do Provincial GAM",
+    "fecha": "2026-08-29",
+    "mes": "Agosto",
+    "sede": "Lanús",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Juegos ODESUR",
+    "fecha": "2026-09-14",
+    "mes": "Septiembre",
+    "sede": "Rosario",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Final Juegos Nacionales Evita",
+    "fecha": "2026-10-01",
+    "mes": "Octubre",
+    "sede": "Mar del Plata",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Campeonato Nacional Federativo",
+    "fecha": "2026-10-05",
+    "mes": "Octubre",
+    "sede": "Rosario",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Campeonato Mundial Rotterdam, Países Bajos",
+    "fecha": "2026-10-19",
+    "mes": "Octubre",
+    "sede": "Rotterdam, Países Bajos",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Juegos Olímpicos de la Juventud Dakar",
+    "fecha": "2026-11-02",
+    "mes": "Noviembre",
+    "sede": "Dakar",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Campeonato Sudamericano Nivel 3 y Mayores",
+    "fecha": "2026-11-18",
+    "mes": "Noviembre",
+    "sede": "Lima, Perú",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Campeonato Sudamericano Nivel 1, 2 y Juniors",
+    "fecha": "2026-11-23",
+    "mes": "Noviembre",
+    "sede": "Bolivia",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "Concentración Fase I, II y III con entrenador extranjero",
+    "fecha": "2026-12-07",
+    "mes": "Diciembre",
+    "sede": "CeNARD",
+    "disciplina": "Artística Masculina"
+  },
+  {
+    "titulo": "1° Ingreso Categoría Senior, Junior y 13 años — 1° Selectivos Panamericano, Sudamericano y ODESUR",
+    "fecha": "2026-03-06",
+    "mes": "Marzo",
+    "sede": "CAG — FMG",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "2° Ingreso Categoría Senior — 2° y 3° Selectivos Panamericano, Sudamericano y ODESUR",
+    "fecha": "2026-04-10",
+    "mes": "Abril",
+    "sede": "FCG",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "4° Selectivo Panamericano — 1° Ingreso a Elite Age Group",
+    "fecha": "2026-04-24",
+    "mes": "Abril",
+    "sede": "FMG",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "1° Torneo FBG — Niveles A, B, C y D Rítmica",
+    "fecha": "2026-05-30",
+    "mes": "Mayo",
+    "sede": "Balcarce",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "Nacional de Clubes nivel A y B — 2° Ingreso a Elite — 2° Selectivo Sudamericano",
+    "fecha": "2026-07-08",
+    "mes": "Julio",
+    "sede": "FCG",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "Nacional de Clubes nivel C",
+    "fecha": "2026-08-05",
+    "mes": "Agosto",
+    "sede": "FMiG",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "2° Torneo FBG — Niveles A, B, C y D",
+    "fecha": "2026-08-29",
+    "mes": "Agosto",
+    "sede": "En Armonía, Campana",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "3° Selectivo Junior y Age Group — Nacional Federativo nivel A",
+    "fecha": "2026-09-11",
+    "mes": "Septiembre",
+    "sede": "FMG",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "Torneo FBG Provincial — Niveles A, B y C",
+    "fecha": "2026-10-24",
+    "mes": "Octubre",
+    "sede": "Municipalidad de La Matanza",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "Nacional Federativo B y C",
+    "fecha": "2026-11-23",
+    "mes": "Noviembre",
+    "sede": "FMiG",
+    "disciplina": "Rítmica"
+  },
+  {
+    "titulo": "1er Campus Federativo",
+    "fecha": "2026-03-22",
+    "mes": "Marzo",
+    "sede": "Junín, Bs. As.",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "1er Ingreso Nivel A — Rankeo Campeonato Sudamericano",
+    "fecha": "2026-04-29",
+    "mes": "Abril",
+    "sede": "Guaymallén, Mendoza",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "Torneo Nacional de Clubes",
+    "fecha": "2026-05-01",
+    "mes": "Mayo",
+    "sede": "Guaymallén, Mendoza",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "Rankeo Campeonato del Mundo y Campeonato Panamericano",
+    "fecha": "2026-05-02",
+    "mes": "Mayo",
+    "sede": "Buenos Aires",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "Campeonato Sudamericano y Copa Panamericana de Clubes",
+    "fecha": "2026-07-07",
+    "mes": "Julio",
+    "sede": "CeNARD, Bs. As.",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "1er Provincial Bonaerense",
+    "fecha": "2026-08-16",
+    "mes": "Agosto",
+    "sede": "La Plata, Bs. As.",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "Campeonato del Mundo Youth y Junior",
+    "fecha": "2026-09-01",
+    "mes": "Septiembre",
+    "sede": "Pamplona, España",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "Campeonato del Mundo Senior",
+    "fecha": "2026-09-08",
+    "mes": "Septiembre",
+    "sede": "Pamplona, España",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "2do Selectivo Bonaerense de Clubes",
+    "fecha": "2026-10-01",
+    "mes": "Octubre",
+    "sede": "Junín, Bs. As.",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "Campeonato Panamericano y Copa Panamericana de Clubes",
+    "fecha": "2026-11-09",
+    "mes": "Noviembre",
+    "sede": "Aracajú, Brasil",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "Final Nacional Federativa",
+    "fecha": "2026-12-01",
+    "mes": "Diciembre",
+    "sede": "Córdoba",
+    "disciplina": "Aeróbica Deportiva"
+  },
+  {
+    "titulo": "Torneo Nacional de Clubes Niveles A, A1 y B",
+    "fecha": "2026-04-20",
+    "mes": "Abril",
+    "sede": "CeNARD (a confirmar)",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "1° Provincial — Tumbling (día 1, Nolting) · Trampolín y Doble Mini (días 2 y 3, Bib. Mariano Moreno)",
+    "fecha": "2026-05-01",
+    "mes": "Mayo",
+    "sede": "Nolting / Bib. Mariano Moreno",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "Campeonato Panamericano Senior, Junior y Copa Panamericana de Clubes",
+    "fecha": "2026-05-18",
+    "mes": "Mayo",
+    "sede": "Medellín, Colombia",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "Torneo Nacional de Clubes Niveles C-D",
+    "fecha": "2026-06-01",
+    "mes": "Junio",
+    "sede": "Sin sede",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "World Cup AROSA",
+    "fecha": "2026-06-22",
+    "mes": "Junio",
+    "sede": "Arosa, Suiza",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "World Cup COIMBRA",
+    "fecha": "2026-06-29",
+    "mes": "Junio",
+    "sede": "Coimbra, Portugal",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "Copa Nacional Joe Siciliano Nivel A-A1",
+    "fecha": "2026-07-16",
+    "mes": "Julio",
+    "sede": "Sin sede",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "2° Provincial — Trampolín y Doble Mini (7, 8 y 9) · Tumbling (13 y 15) — sedes a definir",
+    "fecha": "2026-08-07",
+    "mes": "Agosto",
+    "sede": "Nolting / Bib. Mariano Moreno",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "Campeonato Sudamericano Senior, Junior y Copa Sudamericana de Clubes",
+    "fecha": "2026-08-24",
+    "mes": "Agosto",
+    "sede": "Belo Horizonte, Brasil",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "XIII Juegos Sudamericanos — Trampolín Individual y Sincronizado",
+    "fecha": "2026-09-16",
+    "mes": "Septiembre",
+    "sede": "Rosario, Argentina",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "World Cup RICCIONE",
+    "fecha": "2026-09-28",
+    "mes": "Septiembre",
+    "sede": "Riccione, Italia",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "World Cup COTTBUS",
+    "fecha": "2026-10-12",
+    "mes": "Octubre",
+    "sede": "Cottbus, Alemania",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "Campeonato Nacional Federativo Niveles A-A1-B",
+    "fecha": "2026-10-19",
+    "mes": "Octubre",
+    "sede": "CeNARD (a confirmar)",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "Senior World Championship Nanjing 2026",
+    "fecha": "2026-11-01",
+    "mes": "Noviembre",
+    "sede": "Nanjing, China",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "Junior World Championship Nanjing 2026",
+    "fecha": "2026-11-09",
+    "mes": "Noviembre",
+    "sede": "Nanjing, China",
+    "disciplina": "Trampolín"
+  },
+  {
+    "titulo": "Campeonato Nacional Federativo Niveles C-D",
+    "fecha": "2026-11-23",
+    "mes": "Noviembre",
+    "sede": "Sin sede",
+    "disciplina": "Trampolín"
+  }
+]
